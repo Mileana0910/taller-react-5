@@ -1,0 +1,29 @@
+.profile-card{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.profile-img {
+    border-radius: 10px;
+}
+.profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.profile-description {
+    font-size: 16px;
+    color: #666;
+}
+.profile-h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    background-color: #818080;
+    border-radius: 8px;
+}
